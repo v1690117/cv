@@ -6,7 +6,7 @@ sidebar:
     # Profile information
     name: Vladimir Veselov
     tagline: Software Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.png
 
     # Sidebar links
     email: vladimir.veselov@phystech.edu
@@ -35,16 +35,6 @@ sidebar:
         - idiom: Russian
           level: Native
 
-#    interests:
-#      title: Interests
-#      info:
-#        - item: Guitar
-#          link:
-#        - item: Ice Hockey
-#          link:
-#        - item: CI/CD
-#          link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -70,7 +60,7 @@ experiences:
         time: 2023 - present
         company: IGA Technologies, Moscow
         details: |
-          Leading a team of 4 developers creating Classification System for our customer I   
+          Managed a 4-member team creating Classification System for the customer. Results:    
           - built an architecture for the system,  
           - developed backend services,      
           - implemented an approach to describe the system architecture as code using C4 and PlantUML.  
@@ -83,7 +73,7 @@ experiences:
         details: |
           The team developed the system that helps to plan, approve and provide inspections of building construction. Achievements:            
           - developed an architecture of the system, backend and libraries to simplify database interaction process,    
-          - organized a process of reviewing the development results to compile a library of components to be used in other projects.  
+          - directed a process of reviewing the development results to compile a library of components to be used in other projects.  
           
           **Stack:** Microservices, Java 11, Spring Boot, PostgreSQL, Kafka, React, Typescript, Docker, Gitlab CI.
 
@@ -91,7 +81,7 @@ experiences:
         time: 2022
         company: IGA Technologies, Moscow
         details: |
-          The team developed new module Electronic Document Management for formal process of the documentation release. Some highlights:      
+          Developed new module Electronic Document Management for formal process of the documentation release. Some highlights:      
           - introduced the CI/CD approach to the customer thereby increasing the frequency of releases by 5 times.  
           - separated 2 business and 1 technical services from big monolith.  
           - implemented team member performance reviews.    
@@ -102,12 +92,11 @@ experiences:
         time: 2018-2022
         company: IGA Technologies, Moscow
         details: |
-          I developed Information Management System for company leading NPPA construction project. 
-          Implementing such a complex project I was resposible for many processes:   
+          Developed Information Management System for company leading NPPA construction project.   
+          Significant experience:       
           - built team of 15 developers from scratch,  
           - introduced static analyzers into the development process,  
           - implemented CI/CD approach to the project,  
-          - developed frontend and backend services,  
           - introduced docker to the development process.   
           
           **Stack:** Monolithic Architecture for business logic + small technical services, 3DEXPERIENCE R2021x, Java 11, Java EE, Spring Boot, ActiveMQ Artemis, React, Typescript, Gitlab CI.
@@ -116,10 +105,10 @@ experiences:
         time: 2018
         company: IGA Technologies, Moscow
         details: |
-          I developed new module to automate Change process of engineering models. Interesting experience:      
+          Developed new module to automate Change process of engineering models. Interesting experience:      
           -  implemented first end-to-end integration test,    
           -  introduced React framework to the company,    
-          -  moved server logic from JSP and servlets to JaxRS.   
+          -  moved server logic from JSP and Servlets to JaxRS.   
           
           **Stack:** Monolithic Architecture, 3DEXPERIENCE R2019x, Java 8, Java EE, React.  
 
@@ -127,7 +116,7 @@ experiences:
         time: 2016-2018
         company: IGA Technologies, Moscow
         details: |
-          I developed line of Information Management Systems for 4 NPPA. During the project I  
+          Developed line of Information Management Systems for 4 NPPA. During the project I    
           - introduced Gitlab to the company and migrated all projects from remote SVN server,    
           - configured Gitlab CI servers and implemented CI jobs for compiling backend and running tests.  
           
@@ -137,7 +126,7 @@ experiences:
         time: 2016
         company: IGA Technologies, Moscow
         details: |
-          Our team developed system for warehouse to register all income and outcome of assets.    
+          Team developed system for warehouse to register all income and outcome of assets.    
           I developed a plugin for Intellij IDEA that sped up data model development at least 10 times and allowed to add configuration data to control version system.  
           
           **Stack:** Monolithic Architecture, 3DEXPERIENCE R2015x, Java 8 
@@ -147,51 +136,10 @@ experiences:
         company: FSUE TsAGI, Moscow
         details: |
           Being a part-time junior researcher I 
-          - developed algorithms to control trim systems for boats and plane models via servo,  
+          - optimized algorithms to control trim systems for boats and plane models,  
           - developed system that collected data from analog and digital sensors during tests of the hydrodynamic configuration of the sea-based planes.  
           
           **Stack:** NI LabVIEW, Arduino, C++, Matlab, Python
-
-#certifications:
-#      title: Certifications
-#      list:
-#        - name: CV Builder
-#          start: 2020
-#          end: 2021
-#          organization: Microsoft
-#          credentialid: 111-222
-#          credentialurl: www.google.com
-#          credentialname: Google
-#          details: |
-#            Details about cert. Lorem ipsum dolor sit amet, consectetur
-#            adipiscing elit.
-#            Nullam eget orci purus. Nullam ultrices neque nibh.
-#            Aenean fermentum, felis vulputate suscipit accumsan,
-#            sem enim bibendum augue, sed convallis arcu lacus at dui.
-#            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#            Praesent venenatis erat non augue suscipit consectetur.
-#
-#            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-#            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-#            justo diam viverra velit, sed rhoncus leo leo eu justo.
-#            Suspendisse placerat risus ante, sed porta nisi blandit at.
-#        - name: Git learning
-#          start: 2019
-#          end:
-#          organization: Microsoft
-#          credentialid: 111-222
-#          credentialurl: www.github.com
-#          credentialname: Github
-#          details: |
-#            Older certification. Lorem ipsum dolor sit amet, consectetur
-#            adipiscing elit.
-#            Nullam eget orci purus. Nullam ultrices neque nibh.
-#            Aenean fermentum, felis vulputate suscipit accumsan,
-#            sem enim bibendum augue, sed convallis arcu lacus at dui.
-#            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-#            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-#            Praesent venenatis erat non augue suscipit consectetur.
 
 #projects:
 #    title: Pet Projects
@@ -208,20 +156,6 @@ experiences:
 #        link: https://github.com/v1690117/rutt
 #        tagline: "System to handle and trace software requirements, use cases, tests cases and architecture."
 
-#oss:
-#    title: OSS Contributions
-#    intro: >
-#      You can list your open source software contributions in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    contributions:
-#      - title: Tempo
-#        link: "#"
-#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-#
-#      - title: Atom
-#        link: "#"
-#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
 skills:
     title: Skills &amp; Proficiency
