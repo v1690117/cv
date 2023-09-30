@@ -90,6 +90,7 @@ experiences:
           My team developed new module Electronic Document Management for formal process of the documentation release.  
           I introduced the CI/CD approach to the customer thereby increasing the frequency of releases by 5 times.  
           I separated 2 business and 1 technical services from big monolith.  
+          I implemented team member performance reviews.    
           **Stack:** Monolithic Architecture, 3DEXPERIENCE R2021x, Java 11, Spring Boot, React, Typescript.
       - role: Fullstack Team Lead
         time: 2018-2022
@@ -100,6 +101,7 @@ experiences:
           I worked on frontend and backend services.  
           I introduced static analyzers into the development process.  
           I implemented CI/CD approach to the project.  
+          I introduced docker to the development process.  
           **Stack:** Monolithic Architecture for business logic + small technical services, 3DEXPERIENCE R2021x, Java 11, Java EE, Spring Boot, ActiveMQ Artemis, React, Typescript, Gitlab CI.
       - role: Fullstack Developer
         time: 2018
