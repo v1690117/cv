@@ -13,8 +13,8 @@ sidebar:
     phone: +7 964 5899326
     timezone: Turkey/Mersin Timezone
     citizenship:
-    website: v1690117.com
-    linkedin: v1690117
+#    website: v1690117.com
+#    linkedin: v1690117
     xing:
     github: v1690117
     telegram: v1690117
@@ -24,6 +24,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads:
+#      todo
     pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -47,84 +48,89 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Hello! I'm Vladimir Veselov, a seasoned Software Engineer with experience in backend, frontend and team-leading. 
+      Throughout my career, I've effectively led development teams, 
+      delivering complex applications in the realms of construction 
+      planning, document management, and information management systems. 
+      Passionate about innovation, I'm always eager to explore new technologies and approaches. 
+      I'm on the lookout for opportunities to further enhance my professional journey and embrace new challenges.
+
 education:
     title: Education
     info:
       - degree: MSc in Applied Mathematics and Physics
         university: Moscow Institute of Physics and Technology (State University)
         time: 2014 - 2016
-#        details: |
-#          Describe your study here lorem ipsum dolor sit amet, consectetuer
-#            - Bullet point
       - degree: BSc in Applied Mathematics and Physics
         university: Moscow Institute of Physics and Technology (State University)
         time: 2010 - 2014
-#        details: |
-#          Describe your study here lorem ipsum dolor sit amet, consectetuer
-#            - Bullet point
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
+      - role: Team Lead
         time: 2023 - present
         company: IGA Technologies, Moscow
         details: |
-          Classification System
+          Developing Classification System for our customer I built an architecture for the system and developed backend services.      
+          I implemented an approach to describe the system architecture using C4 and PlantUML.  
+          **Stack:** Microservices, Java 17, Spring Boot, PostgreSQL, Kafka, React, Typescript, Docker, Gitlab CI.
       - role: Backend team lead
         time: 2022 - 2023
         company: IGA Technologies, Moscow
         details: |
-          We are developing the system that helps to plan, approve and provide inspections of building construction.
+          My team developed the system that helps to plan, approve and provide inspections of building construction.  
+          I developed an architecture of the system, backend and libraries to simplify database interaction process.  
+          At the end of the project, I organized a process of reviewing the development results to compile a library of components to be used in other projects.      
           **Stack:** Microservices, Java 11, Spring Boot, PostgreSQL, Kafka, React, Typescript, Docker, Gitlab CI.
       - role: Fullstack Team Lead
         time: 2022
         company: IGA Technologies, Moscow
         details: |
-          Electronic Document Management
-          My team developed new module for formal process of the documentation release.
-          Introduced CICD, separate 2 business services from monolith 
-          **Stack:** Monolithic Architercture, 3DEXPERIENCE R2021x, Java 11, Spring Boot, React, Typescript.
+          My team developed new module Electronic Document Management for formal process of the documentation release.  
+          I introduced the CI/CD approach to the customer thereby increasing the frequency of releases by 5 times.  
+          I separated 2 business and 1 technical services from big monolith.  
+          **Stack:** Monolithic Architecture, 3DEXPERIENCE R2021x, Java 11, Spring Boot, React, Typescript.
       - role: Fullstack Team Lead
         time: 2018-2022
         company: IGA Technologies, Moscow
         details: |
-          Information Management System
-          My team was developing Information Management System for company leading NPPA construction project.
+          My team developed Information Management System for company leading NPPA construction project.  
+          I built team of 15 developers from scratch.  
+          I worked on frontend and backend services.  
+          I introduced static analyzers into the development process.  
+          I implemented CI/CD approach to the project.  
           **Stack:** Monolithic Architecture for business logic + small technical services, 3DEXPERIENCE R2021x, Java 11, Java EE, Spring Boot, ActiveMQ Artemis, React, Typescript, Gitlab CI.
       - role: Fullstack Developer
         time: 2018
         company: IGA Technologies, Moscow
         details: |
-          Change Approval
-          I developed new module to automate Change process of engineering models.
+          I developed new module to automate Change process of engineering models.  
+          I implemented first end-to-end integration test.  
+          I introduced React framework to the company.  
+          I moved server logic from JSP and servlets to JaxRS.  
           **Stack:** Monolithic Architecture, 3DEXPERIENCE R2019x, Java 8, Java EE, React.
       - role: Backend Developer
         time: 2016-2018
         company: IGA Technologies, Moscow
         details: |
-          Information Management System
-          As outstaff developer I took part in development of line of Information Management Systems for several NPPA.
+          I took part in development of line of Information Management Systems for several NPPA.  
+          I introduced Gitlab to the company and migrated all projects from remote SVN server.  
+          I configured Gitlab CI servers and implemented CI jobs for compiling backend and running tests.  
           **Stack:** Monolithic Architecture, 3DEXPERIENCE R2015x, Java 8
       - role: Junior Backend Developer
         time: 2016
         company: IGA Technologies, Moscow
         details: |
-          Warehouse Management
-          Our team developed system for warehouse to register all income and oucome of assets.
+          Our team developed system for warehouse to register all income and outcome of assets.  
+          I developed a plugin for Intellij IDEA that sped up data model development at least 10 times and allowed to add some configuration data to control version system.    
           **Stack:** Monolithic Architecture, 3DEXPERIENCE R2015x, Java 8
       - role: Junior researcher
         time: 2014-2016
         company: FSUE TsAGI, Moscow
         details: |
-          I was developing algorithms to control trim systems for boats and plane models via servo.
-          I took part in development of the system that collected data from analog and digital sensors during tests of the hydrodynamic configuration of the sea-based planes.
+          I developed algorithms to control trim systems for boats and plane models via servo.  
+          I took part in development of the system that collected data from analog and digital sensors during tests of the hydrodynamic configuration of the sea-based planes.    
           **Stack:** NI LabVIEW, Arduino, C++, Matlab, Python
 
 #certifications:
@@ -168,20 +174,20 @@ experiences:
 #            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
 #            Praesent venenatis erat non augue suscipit consectetur.
 
-projects:
-    title: Pet Projects
-#    intro: >
-#      You can list your side projects in this
-#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: eno-context
-        link: https://github.com/v1690117/eno-context
-        tagline: "Provides client api to 3DEXPERIENCE Platform."
-
-      - title: RUTT
-        link: https://github.com/v1690117/rutt
-        tagline: "System to handle and trace software requirements, use cases, tests cases and architecture."
+#projects:
+#    title: Pet Projects
+##    intro: >
+##      You can list your side projects in this
+##      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+##      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: eno-context
+#        link: https://github.com/v1690117/eno-context
+#        tagline: "Provides client api to 3DEXPERIENCE Platform."
+#
+#      - title: RUTT
+#        link: https://github.com/v1690117/rutt
+#        tagline: "System to handle and trace software requirements, use cases, tests cases and architecture."
 
 #oss:
 #    title: OSS Contributions
@@ -214,6 +220,9 @@ skills:
       - name: Javascript
         level: 50%
 
+      - name: React
+        level: 50%
+
       - name: PostgreSQL
         level: 50%
 
@@ -221,6 +230,9 @@ skills:
         level: 50%
 
       - name: Gitlab CI
+        level: 75%
+
+      - name: Docker
         level: 75%
 
       - name: PlantUML/C4
