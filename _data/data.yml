@@ -38,10 +38,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Hello! I'm Vladimir Veselov, a seasoned Software Engineer with experience in backend, frontend and team-leading. 
-      Throughout my career, I have led development teams, delivering complex applications in the realms of construction 
-      planning, document management, and information management systems.     
-      I am not tied to technology and I'm always eager to explore new technologies and approaches.  
+      Implemented projects alone and in a team. Developed backend, frontend, architecture. 
+      Led cross-functional development teams, delivering complex applications in construction planning, document management, and information management systems.  
+      Not tied to specific technology and eager to explore new technologies and approaches.      
 
 education:
     title: Education
@@ -72,7 +71,7 @@ experiences:
         company: IGA Technologies, Moscow
         details: |
           The team developed the system that helps to plan, approve and provide inspections of building construction. Achievements:            
-          - developed an architecture of the system, backend and libraries to simplify database interaction process,    
+          - designed an architecture of the system, backend and libraries to simplify database interaction process,    
           - directed a process of reviewing the development results to compile a library of components to be used in other projects.  
           
           **Stack:** Microservices, Java 11, Spring Boot, PostgreSQL, Kafka, React, Typescript, Docker, Gitlab CI.
@@ -81,9 +80,9 @@ experiences:
         time: 2022
         company: IGA Technologies, Moscow
         details: |
-          Developed new module Electronic Document Management for formal process of the documentation release. Some highlights:      
-          - introduced the CI/CD approach to the customer thereby increasing the frequency of releases by 5 times.  
-          - separated 2 business and 1 technical services from big monolith.  
+          Developed new module Electronic Document Management for formal process of the documentation release. Highlights:      
+          - established the CI/CD approach to the customer thereby increasing the frequency of releases by 5 times,    
+          - separated 2 business and 1 technical services from big monolith,    
           - implemented team member performance reviews.    
           
           **Stack:** Monolithic Architecture, 3DEXPERIENCE R2021x, Java 11, Spring Boot, React, Typescript.
@@ -92,7 +91,7 @@ experiences:
         time: 2018-2022
         company: IGA Technologies, Moscow
         details: |
-          Developed Information Management System for company leading NPPA construction project.   
+          Produced Information Management System for company leading NPPA construction project.   
           Significant experience:       
           - built team of 15 developers from scratch,  
           - introduced static analyzers into the development process,  
@@ -116,7 +115,7 @@ experiences:
         time: 2016-2018
         company: IGA Technologies, Moscow
         details: |
-          Developed line of Information Management Systems for 4 NPPA. During the project I    
+          Prepared line of Information Management Systems for 4 NPPA. During the project I    
           - introduced Gitlab to the company and migrated all projects from remote SVN server,    
           - configured Gitlab CI servers and implemented CI jobs for compiling backend and running tests.  
           
@@ -126,7 +125,7 @@ experiences:
         time: 2016
         company: IGA Technologies, Moscow
         details: |
-          Team developed system for warehouse to register all income and outcome of assets.    
+          Created system for warehouse to register all income and outcome of assets.    
           I developed a plugin for Intellij IDEA that sped up data model development at least 10 times and allowed to add configuration data to control version system.  
           
           **Stack:** Monolithic Architecture, 3DEXPERIENCE R2015x, Java 8 
@@ -134,10 +133,9 @@ experiences:
       - role: Junior researcher
         time: 2014-2016
         company: FSUE TsAGI, Moscow
-        details: |
-          Being a part-time junior researcher I 
+        details: |   
           - optimized algorithms to control trim systems for boats and plane models,  
-          - developed system that collected data from analog and digital sensors during tests of the hydrodynamic configuration of the sea-based planes.  
+          - redesigned system that collected data from analog and digital sensors during tests of the hydrodynamic configuration of the sea-based planes.  
           
           **Stack:** NI LabVIEW, Arduino, C++, Matlab, Python
 
