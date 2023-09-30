@@ -35,15 +35,15 @@ sidebar:
         - idiom: Russian
           level: Native
 
-    interests:
-      title: Interests
-      info:
-        - item: Guitar
-          link:
-        - item: Ice Hockey
-          link:
-        - item: CI/CD
-          link:
+#    interests:
+#      title: Interests
+#      info:
+#        - item: Guitar
+#          link:
+#        - item: Ice Hockey
+#          link:
+#        - item: CI/CD
+#          link:
 
 career-profile:
     title: Career Profile
