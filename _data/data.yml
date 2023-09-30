@@ -49,11 +49,9 @@ career-profile:
     title: Career Profile
     summary: |
       Hello! I'm Vladimir Veselov, a seasoned Software Engineer with experience in backend, frontend and team-leading. 
-      Throughout my career, I've effectively led development teams, 
-      delivering complex applications in the realms of construction 
-      planning, document management, and information management systems. 
-      Passionate about innovation, I'm always eager to explore new technologies and approaches. 
-      I'm on the lookout for opportunities to further enhance my professional journey and embrace new challenges.
+      Throughout my career, I have led development teams, delivering complex applications in the realms of construction 
+      planning, document management, and information management systems.     
+      I am not tied to technology and I'm always eager to explore new technologies and approaches.  
 
 education:
     title: Education
@@ -72,67 +70,71 @@ experiences:
         time: 2023 - present
         company: IGA Technologies, Moscow
         details: |
-          Developing Classification System for our customer I built an architecture for the system and developed backend services.      
-          I implemented an approach to describe the system architecture using C4 and PlantUML.  
+          Leading a team of 4 developers creating Classification System for our customer I   
+          - built an architecture for the system,  
+          - developed backend services,      
+          - implemented an approach to describe the system architecture as code using C4 and PlantUML.  
           **Stack:** Microservices, Java 17, Spring Boot, PostgreSQL, Kafka, React, Typescript, Docker, Gitlab CI.
       - role: Backend team lead
         time: 2022 - 2023
         company: IGA Technologies, Moscow
         details: |
-          My team developed the system that helps to plan, approve and provide inspections of building construction.  
-          I developed an architecture of the system, backend and libraries to simplify database interaction process.  
-          At the end of the project, I organized a process of reviewing the development results to compile a library of components to be used in other projects.      
+          My team developed the system that helps to plan, approve and provide inspections of building construction. My achievements:            
+          - developed an architecture of the system, backend and libraries to simplify database interaction process,    
+          - organized a process of reviewing the development results to compile a library of components to be used in other projects.      
           **Stack:** Microservices, Java 11, Spring Boot, PostgreSQL, Kafka, React, Typescript, Docker, Gitlab CI.
       - role: Fullstack Team Lead
         time: 2022
         company: IGA Technologies, Moscow
         details: |
-          My team developed new module Electronic Document Management for formal process of the documentation release.  
-          I introduced the CI/CD approach to the customer thereby increasing the frequency of releases by 5 times.  
-          I separated 2 business and 1 technical services from big monolith.  
-          I implemented team member performance reviews.    
+          The team developed new module Electronic Document Management for formal process of the documentation release. Some highlights:      
+          - introduced the CI/CD approach to the customer thereby increasing the frequency of releases by 5 times.  
+          - separated 2 business and 1 technical services from big monolith.  
+          - implemented team member performance reviews.    
           **Stack:** Monolithic Architecture, 3DEXPERIENCE R2021x, Java 11, Spring Boot, React, Typescript.
       - role: Fullstack Team Lead
         time: 2018-2022
         company: IGA Technologies, Moscow
         details: |
-          My team developed Information Management System for company leading NPPA construction project.  
-          I built team of 15 developers from scratch.  
-          I worked on frontend and backend services.  
-          I introduced static analyzers into the development process.  
-          I implemented CI/CD approach to the project.  
-          I introduced docker to the development process.  
+          My team developed Information Management System for company leading NPPA construction project. 
+          Implementing such a complex project I was resposible for many processes:   
+          - built team of 15 developers from scratch,  
+          - introduced static analyzers into the development process,  
+          - implemented CI/CD approach to the project,  
+          - developed frontend and backend services,  
+          - introduced docker to the development process.  
           **Stack:** Monolithic Architecture for business logic + small technical services, 3DEXPERIENCE R2021x, Java 11, Java EE, Spring Boot, ActiveMQ Artemis, React, Typescript, Gitlab CI.
       - role: Fullstack Developer
         time: 2018
         company: IGA Technologies, Moscow
         details: |
-          I developed new module to automate Change process of engineering models.  
-          I implemented first end-to-end integration test.  
-          I introduced React framework to the company.  
-          I moved server logic from JSP and servlets to JaxRS.  
+          I developed new module to automate Change process of engineering models. Interesting experience:      
+          -  implemented first end-to-end integration test,    
+          -  introduced React framework to the company,    
+          -  moved server logic from JSP and servlets to JaxRS.  
           **Stack:** Monolithic Architecture, 3DEXPERIENCE R2019x, Java 8, Java EE, React.
       - role: Backend Developer
         time: 2016-2018
         company: IGA Technologies, Moscow
         details: |
-          I took part in development of line of Information Management Systems for several NPPA.  
-          I introduced Gitlab to the company and migrated all projects from remote SVN server.  
-          I configured Gitlab CI servers and implemented CI jobs for compiling backend and running tests.  
+          I developed line of Information Management Systems for 4 NPPA. During the project I  
+          - introduced Gitlab to the company and migrated all projects from remote SVN server,    
+          - configured Gitlab CI servers and implemented CI jobs for compiling backend and running tests.  
           **Stack:** Monolithic Architecture, 3DEXPERIENCE R2015x, Java 8
       - role: Junior Backend Developer
         time: 2016
         company: IGA Technologies, Moscow
         details: |
-          Our team developed system for warehouse to register all income and outcome of assets.  
-          I developed a plugin for Intellij IDEA that sped up data model development at least 10 times and allowed to add some configuration data to control version system.    
+          Our team developed system for warehouse to register all income and outcome of assets.    
+          I developed a plugin for Intellij IDEA that sped up data model development at least 10 times and allowed to add configuration data to control version system.    
           **Stack:** Monolithic Architecture, 3DEXPERIENCE R2015x, Java 8
       - role: Junior researcher
         time: 2014-2016
         company: FSUE TsAGI, Moscow
         details: |
-          I developed algorithms to control trim systems for boats and plane models via servo.  
-          I took part in development of the system that collected data from analog and digital sensors during tests of the hydrodynamic configuration of the sea-based planes.    
+          Being a part-time junior researcher I 
+          - developed algorithms to control trim systems for boats and plane models via servo,  
+          - developed system that collected data from analog and digital sensors during tests of the hydrodynamic configuration of the sea-based planes.      
           **Stack:** NI LabVIEW, Arduino, C++, Matlab, Python
 
 #certifications:
