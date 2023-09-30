@@ -16,7 +16,7 @@ sidebar:
 #    website: v1690117.com
 #    linkedin: v1690117
     xing:
-    github: v1690117
+#    github: v1690117
     telegram: v1690117
     gitlab:
     bitbucket:
@@ -25,7 +25,7 @@ sidebar:
     codewars:
     goodreads:
 #      todo
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://v1690117.com/cv.pdf
 
     languages:
       title: Languages
@@ -130,7 +130,7 @@ experiences:
           
           **Stack:** Monolithic Architecture, 3DEXPERIENCE R2015x, Java 8 
 
-      - role: Junior researcher
+      - role: Junior Researcher
         time: 2014-2016
         company: FSUE TsAGI, Moscow
         details: |   
