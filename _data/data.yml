@@ -31,9 +31,9 @@ sidebar:
       title: Languages
       info:
         - idiom: English
-          level: Professional
+          level: B2
         - idiom: Russian
-          level: Native
+          level: C2
 
 career-profile:
     title: Career Profile
@@ -55,89 +55,98 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Fullstack Team Lead
-        time: 2023 - present
-        company: IGA Technologies, Moscow
-        details: |
-          Managed a 4-member team creating Classification System for the customer. Results:    
-          - built an architecture for the system,  
-          - developed backend services,      
-          - implemented an approach to describe the system architecture as code using C4 and PlantUML.  
-          
-          **Stack:** Microservices, Java 17, Spring Boot, PostgreSQL, Kafka, React, Typescript, Docker, Gitlab CI.
+      - company: Vladimir Veselov PR, Beograd
+        projects:
+          - role: Fullstack Team Lead
+            time: 2023 - present
+            name: Classification System
+            details: |
+              Managed a 4-member team creating Classification System for the customer. Results:    
+              - built an architecture for the system,  
+              - developed backend services,      
+              - implemented an approach to describe the system architecture as code using C4 and PlantUML.  
+              
+              **Stack:** Microservices, Java 17, Spring Boot, PostgreSQL, Kafka, React, Typescript, Docker, Gitlab CI.
 
-      - role: Backend Team Lead
-        time: 2022 - 2023
-        company: IGA Technologies, Moscow
-        details: |
-          The team developed the system that helps to plan, approve and provide inspections of building construction. Achievements:            
-          - designed an architecture of the system, backend and libraries to simplify database interaction process,    
-          - directed a process of reviewing the development results to compile a library of components to be used in other projects.  
-          
-          **Stack:** Microservices, Java 11, Spring Boot, PostgreSQL, Kafka, React, Typescript, Docker, Gitlab CI.
+      - company: IGA Technologies, Moscow
+        projects:
+          - role: Backend Team Lead
+            time: 2022 - 2023
+            name: Construction Assessment System
+            details: |
+              The team developed the system that helps to plan, approve and provide inspections of building construction. Achievements:            
+              - designed an architecture of the system, backend and libraries to simplify database interaction process,    
+              - directed a process of reviewing the development results to compile a library of components to be used in other projects.  
+              
+              **Stack:** Microservices, Java 11, Spring Boot, PostgreSQL, Kafka, React, Typescript, Docker, Gitlab CI.
 
-      - role: Fullstack Team Lead
-        time: 2022
-        company: IGA Technologies, Moscow
-        details: |
-          Developed new module Electronic Document Management for formal process of the documentation release. Highlights:      
-          - established the CI/CD approach to the customer thereby increasing the frequency of releases by 5 times,    
-          - separated 2 business and 1 technical services from big monolith,    
-          - implemented team member performance reviews.    
-          
-          **Stack:** Monolithic Architecture, 3DEXPERIENCE R2021x, Java 11, Spring Boot, React, Typescript.
+          - name: Electronic Document Management
+            role: Fullstack Team Lead
+            time: 2022
+            details: |
+              Developed new module Electronic Document Management for formal process of the documentation release. Highlights:      
+              - established the CI/CD approach to the customer thereby increasing the frequency of releases by 5 times,    
+              - separated 2 business and 1 technical services from big monolith,    
+              - implemented team member performance reviews.    
+              
+              **Stack:** Monolithic Architecture, 3DEXPERIENCE R2021x, Java 11, Spring Boot, React, Typescript.
 
-      - role: Fullstack Team Lead
-        time: 2018-2022
-        company: IGA Technologies, Moscow
-        details: |
-          Produced Information Management System for company leading NPPA construction project.   
-          Significant experience:       
-          - built team of 15 developers from scratch,  
-          - introduced static analyzers into the development process,  
-          - implemented CI/CD approach to the project,  
-          - introduced docker to the development process.   
-          
-          **Stack:** Monolithic Architecture for business logic + small technical services, 3DEXPERIENCE R2021x, Java 11, Java EE, Spring Boot, ActiveMQ Artemis, React, Typescript, Gitlab CI.
+          - role: Fullstack Team Lead
+            time: 2018-2022
+            name: Information Management System
+            details: |
+              Produced Information Management System for company leading NPPA construction project.   
+              Significant experience:       
+              - built international distributed team of 15 developers from scratch,  
+              - introduced static analyzers into the development process,  
+              - implemented CI/CD approach to the project,  
+              - introduced docker to the development process.   
+              
+              **Stack:** Monolithic Architecture for business logic + small technical services, 3DEXPERIENCE R2021x, Java 11, Java EE, Spring Boot, ActiveMQ Artemis, React, Typescript, Gitlab CI.
 
-      - role: Fullstack Developer
-        time: 2018
-        company: IGA Technologies, Moscow
-        details: |
-          Developed new module to automate Change process of engineering models. Interesting experience:      
-          -  implemented first end-to-end integration test,    
-          -  introduced React framework to the company,    
-          -  moved server logic from JSP and Servlets to JaxRS.   
-          
-          **Stack:** Monolithic Architecture, 3DEXPERIENCE R2019x, Java 8, Java EE, React.  
+          - role: Fullstack Developer
+            time: 2018
+            name: Change Approval Extension
+            details: |
+              Developed new module to automate Change process of engineering models. Interesting experience:      
+              -  implemented first end-to-end integration test,    
+              -  introduced React framework to the company,    
+              -  moved server logic from JSP and Servlets to JaxRS.   
+              
+              **Stack:** Monolithic Architecture, 3DEXPERIENCE R2019x, Java 8, Java EE, React.  
 
-      - role: Backend Developer
-        time: 2016-2018
-        company: IGA Technologies, Moscow
-        details: |
-          Prepared line of Information Management Systems for 4 NPPA. During the project I    
-          - introduced Gitlab to the company and migrated all projects from remote SVN server,    
-          - configured Gitlab CI servers and implemented CI jobs for compiling backend and running tests.  
-          
-          **Stack:** Monolithic Architecture, 3DEXPERIENCE R2015x, Java 8
+          - role: Backend Developer
+            time: 2016-2018
+            name: Information Management System
+            details: |
+              Prepared line of Information Management Systems for 4 NPPA. During the project I    
+              - introduced Gitlab to the company and migrated all projects from remote SVN server,    
+              - configured Gitlab CI servers and implemented CI jobs for compiling backend and running tests.  
+              
+              **Stack:** Monolithic Architecture, 3DEXPERIENCE R2015x, Java 8
 
-      - role: Junior Backend Developer
-        time: 2016
-        company: IGA Technologies, Moscow
-        details: |
-          Created system for warehouse to register all income and outcome of assets.    
-          I developed a plugin for Intellij IDEA that sped up data model development at least 10 times and allowed to add configuration data to control version system.  
-          
-          **Stack:** Monolithic Architecture, 3DEXPERIENCE R2015x, Java 8 
+          - role: Junior Backend Developer
+            time: 2016
+            name: Warehouse Management
+            details: |
+              Created system for warehouse to register all income and outcome of assets.    
+              I developed a plugin for Intellij IDEA that sped up data model development at least 10 times and allowed to add configuration data to control version system.  
+              
+              **Stack:** Monolithic Architecture, 3DEXPERIENCE R2015x, Java 8 
 
-      - role: Junior Researcher
-        time: 2014-2016
-        company: FSUE TsAGI, Moscow
-        details: |   
-          - optimized algorithms to control trim systems for boats and plane models,  
-          - redesigned system that collected data from analog and digital sensors during tests of the hydrodynamic configuration of the sea-based planes.  
-          
-          **Stack:** NI LabVIEW, Arduino, C++, Matlab, Python
+
+#todo split into projects by years
+
+      - company: FSUE TsAGI, Moscow
+        projects:
+          - role: Junior Researcher
+            time: 2014-2016
+            name: Models Testing System Redesign
+            details: |   
+              - optimized algorithms to control trim systems for boats and plane models,  
+              - redesigned system that collected data from analog and digital sensors during tests of the hydrodynamic configuration of the sea-based planes.  
+              
+              **Stack:** NI LabVIEW, Arduino, C++, Matlab, Python
 
 #projects:
 #    title: Pet Projects
@@ -154,6 +163,24 @@ experiences:
 #        link: https://github.com/v1690117/rutt
 #        tagline: "System to handle and trace software requirements, use cases, tests cases and architecture."
 
+certifications:
+  title: Certifications
+  list:
+
+    - name: 3DEXPERIENCE Architecture Fundamentals R2018X - Level 1
+      start: 2018-10-18
+      credentialurl: 3ds.virtualtester.com/qr?b=3DS&i=C-9HZE4U4AMV
+      credentialname: Dassault Systèmes
+      organization: Dassault Systèmes
+      details: |
+        Architecture of the 3DEXPERIENCE Platform.
+    - name: 3DEXPERIENCE Customization Fundamentals R2017X - Level 1
+      start: 2017-12-20
+      organization: Dassault Systèmes
+      credentialurl: 3ds.virtualtester.com/qr?b=3DS&i=C-UPHTSBXX68
+      credentialname: Dassault Systèmes
+      details: |
+        Configuration and customization of the 3DEXPERIENCE Platform.
 
 skills:
     title: Skills &amp; Proficiency
@@ -184,7 +211,7 @@ skills:
         level: 75%
 
       - name: Docker
-        level: 75%
+        level: 50%
 
       - name: PlantUML/C4
         level: 50%
