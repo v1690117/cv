@@ -63,7 +63,7 @@ experiences:
             time: 2023 - present
             name: Classification System
             details: |
-              Managed a 4-member team creating Classification System for the customer. Results:    
+              Managed a 4-member team creating a Classification System for the customer. Results:    
               - built an architecture for the system,  
               - developed backend services,      
               - implemented an approach to describe the system architecture as code using C4 and PlantUML.  
@@ -77,7 +77,7 @@ experiences:
             name: Construction Assessment System
             details: |
               The team developed the system that helps to plan, approve and provide inspections of building construction. Achievements:            
-              - designed an architecture of the system, backend and libraries to simplify database interaction process,    
+              - designed an architecture of the system, backend and libraries to simplify the database interaction process,    
               - directed a process of reviewing the development results to compile a library of components to be used in other projects.  
               
               **Stack:** Microservices, Java 11, Spring Boot, PostgreSQL, Kafka, React, Typescript, Docker, Gitlab CI.
@@ -86,9 +86,9 @@ experiences:
             role: Fullstack Team Lead
             time: 2022
             details: |
-              Developed new module Electronic Document Management for formal process of the documentation release. Highlights:      
+              Developed a new module Electronic Document Management for a formal process of the documentation release. Highlights:      
               - established the CI/CD approach to the customer thereby increasing the frequency of releases by 5 times,    
-              - separated 2 business and 1 technical services from big monolith,    
+              - separated 2 business and 1 technical services from the monolith,    
               - implemented team member performance reviews.    
               
               **Stack:** Monolithic Architecture, 3DEXPERIENCE R2021x, Java 11, Spring Boot, React, Typescript.
@@ -99,7 +99,7 @@ experiences:
             details: |
               Produced Information Management System for company leading NPPA construction project.   
               Significant experience:       
-              - built international distributed team of 15 developers from scratch,  
+              - built an international distributed team of 15 developers from scratch,  
               - introduced static analyzers into the development process,  
               - implemented CI/CD approach to the project,  
               - introduced docker to the development process.   
@@ -110,8 +110,8 @@ experiences:
             time: 2018
             name: Change Approval Extension
             details: |
-              Developed new module to automate Change process of engineering models. Interesting experience:      
-              -  implemented first end-to-end integration test,    
+              Developed a new module to automate the Change process of engineering models. Interesting experience:      
+              -  implemented the first end-to-end integration test,    
               -  introduced React framework to the company,    
               -  moved server logic from JSP and Servlets to JaxRS.   
               
@@ -122,7 +122,7 @@ experiences:
             name: Information Management System
             details: |
               Prepared line of Information Management Systems for 4 NPPA. During the project I    
-              - introduced Gitlab to the company and migrated all projects from remote SVN server,    
+              - introduced Gitlab to the company and migrated all projects from the remote SVN server,    
               - configured Gitlab CI servers and implemented CI jobs for compiling backend and running tests.  
               
               **Stack:** Monolithic Architecture, 3DEXPERIENCE R2015x, Java 8
@@ -131,8 +131,8 @@ experiences:
             time: 2016
             name: Warehouse Management
             details: |
-              Created system for warehouse to register all income and outcome of assets.    
-              I developed a plugin for Intellij IDEA that sped up data model development at least 10 times and allowed to add configuration data to control version system.  
+              Created a system for the warehouse to register all income and outcome of assets.    
+              I developed a plugin for IntelliJ IDEA that sped up data model development at least 10 times and allowed to add configuration data to the control version system.  
               
               **Stack:** Monolithic Architecture, 3DEXPERIENCE R2015x, Java 8 
 
