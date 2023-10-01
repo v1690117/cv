@@ -282,6 +282,13 @@ p {
     height: 12px;
     background: lighten($theme-color, 15%);
   }
+  .content {
+    display: flex;
+  }
+  .content-item {
+    margin: 8px;
+    white-space: nowrap;
+  }
 }
 
 .footer {
