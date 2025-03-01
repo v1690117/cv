@@ -1,154 +1,152 @@
 sidebar:
-    position: left # position of the sidebar : left or right
-    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+  position: left # position of the sidebar : left or right
+  about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: True # set to False if you want education in main section instead of in sidebar
 
-    # Profile information
-    name: Vladimir Veselov
-    tagline: Software Engineer
-    avatar: profile.png
+  # Profile information
+  name: Vladimir Veselov
+  tagline: Software Engineer
+  avatar: profile.png
 
-    # Sidebar links
-    email: vladimir.veselov@phystech.edu
-    phone: +7 964 5899326
-    timezone: Turkey/Mersin Timezone
-    citizenship:
-#    website: v1690117.com
-#    linkedin: v1690117
-    xing:
-#    github: v1690117
-    telegram: v1690117
-    gitlab:
-    bitbucket:
-    twitter:
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads:
-#      todo
-    pdf: https://v1690117.com/cv.pdf
+  # Sidebar links
+  email: vladimir.veselov@phystech.edu
+  phone: +7 964 5899326
+  timezone: Turkey/Mersin Timezone
+  citizenship:
+  #    website: v1690117.com
+  #    linkedin: v1690117
+  xing:
+  #    github: v1690117
+  telegram: v1690117
+  gitlab:
+  bitbucket:
+  twitter:
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads:
+  #      todo
+  pdf: https://v1690117.com/cv.pdf
 
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: B2
-        - idiom: Russian
-          level: C2
+  languages:
+    title: Languages
+    info:
+      - idiom: English
+        level: B2
+      - idiom: Russian
+        level: C2
 
 career-profile:
-    title: Career Profile
-    summary: |
-      Graduated from university with a fundamental education in physics and mathematics.  
-      Most of the experience was gained in one company, where I took part in 20+ projects.  
-      Implemented projects alone and in a team. Developed backend, frontend and architecture.  
-      Led cross-functional development teams, delivering complex applications in construction planning, document management, and information management systems.  
-      Not tied to specific technology and eager to explore new tools and systematize and automate processes.  
+  title: Career Profile
+  summary: |
+    Graduated from university with a fundamental education in physics and mathematics.  
+    Most of the experience was gained in one company, where I took part in 20+ projects.  
+    Implemented projects alone and in a team. Developed backend, frontend and architecture.  
+    Led cross-functional development teams, delivering complex applications in construction planning, document management, and information management systems.  
+    Not tied to specific technology and eager to explore new tools and systematize and automate processes.  
 
 education:
-    title: Education
-    info:
-      - degree: MSc in Applied Mathematics and Physics
-        university: Moscow Institute of Physics and Technology (State University)
-        time: 2014 - 2016
-      - degree: BSc in Applied Mathematics and Physics
-        university: Moscow Institute of Physics and Technology (State University)
-        time: 2010 - 2014
+  title: Education
+  info:
+    - degree: MSc in Applied Mathematics and Physics
+      university: Moscow Institute of Physics and Technology (State University)
+      time: 2014 - 2016
+    - degree: BSc in Applied Mathematics and Physics
+      university: Moscow Institute of Physics and Technology (State University)
+      time: 2010 - 2014
 
 experiences:
-    title: Experiences
-    info:
-      - company: Vladimir Veselov PR, Beograd
-        projects:
-          - role: Fullstack Team Lead
-            time: 2023 - present
-            name: Classification System
-            details: |
-              Managed a 4-member team creating a Classification System for the customer. Results:    
-              - built an architecture for the system,  
-              - developed backend services,      
-              - implemented an approach to describe the system architecture as code using C4 and PlantUML.  
-              
-              **Stack:** Microservices, Java 17, Spring Boot, PostgreSQL, Kafka, React, Typescript, Docker, Gitlab CI.
+  title: Experiences
+  info:
+    - company: IGA Technologies, Moscow
+      projects:
+        - role: Fullstack Team Lead
+          time: 2023 - 2024
+          name: Classification System
+          details: |
+            Managed a 4-member team creating a Classification System for the customer. Results:    
+            - built an architecture for the system,  
+            - developed backend services,      
+            - implemented an approach to describe the system architecture as code using C4 and PlantUML.  
+            
+            **Stack:** Microservices, Java 17, Spring Boot, PostgreSQL, Kafka, React, Typescript, Docker, Gitlab CI.
 
-      - company: IGA Technologies, Moscow
-        projects:
-          - role: Backend Team Lead
-            time: 2022 - 2023
-            name: Construction Assessment System
-            details: |
-              The team developed the system that helps to plan, approve and provide inspections of building construction. Achievements:            
-              - designed an architecture of the system, backend and libraries to simplify the database interaction process,    
-              - directed a process of reviewing the development results to compile a library of components to be used in other projects.  
-              
-              **Stack:** Microservices, Java 11, Spring Boot, PostgreSQL, Kafka, React, Typescript, Docker, Gitlab CI.
+        - role: Backend Team Lead
+          time: 2022 - 2023
+          name: Construction Assessment System
+          details: |
+            The team developed the system that helps to plan, approve and provide inspections of building construction. Achievements:            
+            - designed an architecture of the system, backend and libraries to simplify the database interaction process,    
+            - directed a process of reviewing the development results to compile a library of components to be used in other projects.  
+            
+            **Stack:** Microservices, Java 11, Spring Boot, PostgreSQL, Kafka, React, Typescript, Docker, Gitlab CI.
 
-          - name: Electronic Document Management
-            role: Fullstack Team Lead
-            time: 2022
-            details: |
-              Developed a new module Electronic Document Management for a formal process of the documentation release. Highlights:      
-              - established the CI/CD approach to the customer thereby increasing the frequency of releases by 5 times,    
-              - separated 2 business and 1 technical services from the monolith,    
-              - implemented team member performance reviews.    
-              
-              **Stack:** Monolithic Architecture, 3DEXPERIENCE R2021x, Java 11, Spring Boot, React, Typescript.
+        - name: Electronic Document Management
+          role: Fullstack Team Lead
+          time: 2022
+          details: |
+            Developed a new module Electronic Document Management for a formal process of the documentation release. Highlights:      
+            - established the CI/CD approach to the customer thereby increasing the frequency of releases by 5 times,    
+            - separated 2 business and 1 technical services from the monolith,    
+            - implemented team member performance reviews.    
+            
+            **Stack:** Monolithic Architecture, 3DEXPERIENCE R2021x, Java 11, Spring Boot, React, Typescript.
 
-          - role: Fullstack Team Lead
-            time: 2018-2022
-            name: Information Management System
-            details: |
-              Produced Information Management System for company leading NPPA construction project.   
-              Significant experience:       
-              - built an international distributed team of 15 developers from scratch,  
-              - introduced static analyzers into the development process,  
-              - implemented CI/CD approach to the project,  
-              - introduced docker to the development process.   
-              
-              **Stack:** Monolithic Architecture for business logic + small technical services, 3DEXPERIENCE R2021x, Java 11, Java EE, Spring Boot, ActiveMQ Artemis, React, Typescript, Gitlab CI.
+        - role: Fullstack Team Lead
+          time: 2018-2022
+          name: Information Management System
+          details: |
+            Produced Information Management System for company leading NPPA construction project.   
+            Significant experience:       
+            - built an international distributed team of 15 developers from scratch,  
+            - introduced static analyzers into the development process,  
+            - implemented CI/CD approach to the project,  
+            - introduced docker to the development process.   
+            
+            **Stack:** Monolithic Architecture for business logic + small technical services, 3DEXPERIENCE R2021x, Java 11, Java EE, Spring Boot, ActiveMQ Artemis, React, Typescript, Gitlab CI.
 
-          - role: Fullstack Developer
-            time: 2018
-            name: Change Approval Extension
-            details: |
-              Developed a new module to automate the Change process of engineering models. Interesting experience:      
-              -  implemented the first end-to-end integration test,    
-              -  introduced React framework to the company,    
-              -  moved server logic from JSP and Servlets to JaxRS.   
-              
-              **Stack:** Monolithic Architecture, 3DEXPERIENCE R2019x, Java 8, Java EE, React.  
+        - role: Fullstack Developer
+          time: 2018
+          name: Change Approval Extension
+          details: |
+            Developed a new module to automate the Change process of engineering models. Interesting experience:      
+            -  implemented the first end-to-end integration test,    
+            -  introduced React framework to the company,    
+            -  moved server logic from JSP and Servlets to JaxRS.   
+            
+            **Stack:** Monolithic Architecture, 3DEXPERIENCE R2019x, Java 8, Java EE, React.  
 
-          - role: Backend Developer
-            time: 2016-2018
-            name: Information Management System
-            details: |
-              Prepared line of Information Management Systems for 4 NPPA. During the project I    
-              - introduced Gitlab to the company and migrated all projects from the remote SVN server,    
-              - configured Gitlab CI servers and implemented CI jobs for compiling backend and running tests.  
-              
-              **Stack:** Monolithic Architecture, 3DEXPERIENCE R2015x, Java 8
+        - role: Backend Developer
+          time: 2016-2018
+          name: Information Management System
+          details: |
+            Prepared line of Information Management Systems for 4 NPPA. During the project I    
+            - introduced Gitlab to the company and migrated all projects from the remote SVN server,    
+            - configured Gitlab CI servers and implemented CI jobs for compiling backend and running tests.  
+            
+            **Stack:** Monolithic Architecture, 3DEXPERIENCE R2015x, Java 8
 
-          - role: Junior Backend Developer
-            time: 2016
-            name: Warehouse Management
-            details: |
-              Created a system for the warehouse to register all income and outcome of assets.    
-              I developed a plugin for IntelliJ IDEA that sped up data model development at least 10 times and allowed to add configuration data to the control version system.  
-              
-              **Stack:** Monolithic Architecture, 3DEXPERIENCE R2015x, Java 8 
+        - role: Junior Backend Developer
+          time: 2016
+          name: Warehouse Management
+          details: |
+            Created a system for the warehouse to register all income and outcome of assets.    
+            I developed a plugin for IntelliJ IDEA that sped up data model development at least 10 times and allowed to add configuration data to the control version system.  
+            
+            **Stack:** Monolithic Architecture, 3DEXPERIENCE R2015x, Java 8 
+    
 
+    #todo split into projects by years
 
-#todo split into projects by years
-
-      - company: FSUE TsAGI, Moscow
-        projects:
-          - role: Junior Researcher
-            time: 2014-2016
-            name: Models Testing System Redesign
-            details: |   
-              - optimized algorithms to control trim systems for boats and plane models,  
-              - redesigned system that collected data from analog and digital sensors during tests of the hydrodynamic configuration of the sea-based planes.  
-              
-              **Stack:** NI LabVIEW, Arduino, C++, Matlab, Python
+    - company: FSUE TsAGI, Moscow
+      projects:
+        - role: Junior Researcher
+          time: 2014-2016
+          name: Models Testing System Redesign
+          details: |
+            - optimized algorithms to control trim systems for boats and plane models,  
+            - redesigned system that collected data from analog and digital sensors during tests of the hydrodynamic configuration of the sea-based planes.  
+            
+            **Stack:** NI LabVIEW, Arduino, C++, Matlab, Python
 
 #projects:
 #    title: Pet Projects
@@ -185,38 +183,38 @@ certifications:
         Configuration and customization of the 3DEXPERIENCE Platform.
 
 skills:
-    title: Skills &amp; Proficiency
+  title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Java
-        level: 75%
+  toolset:
+    - name: Java
+      level: 75%
 
-      - name: Spring
-        level: 50%
+    - name: Spring
+      level: 50%
 
-      - name: JavaEE
-        level: 50%
+    - name: JavaEE
+      level: 50%
 
-      - name: Javascript
-        level: 50%
+    - name: Javascript
+      level: 50%
 
-      - name: React
-        level: 50%
+    - name: React
+      level: 50%
 
-      - name: PostgreSQL
-        level: 50%
+    - name: PostgreSQL
+      level: 50%
 
-      - name: Microservices
-        level: 50%
+    - name: Microservices
+      level: 50%
 
-      - name: Gitlab CI
-        level: 75%
+    - name: Gitlab CI
+      level: 75%
 
-      - name: Docker
-        level: 50%
+    - name: Docker
+      level: 50%
 
-      - name: PlantUML/C4
-        level: 50%
+    - name: PlantUML/C4
+      level: 50%
 
 footer: >
   Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
