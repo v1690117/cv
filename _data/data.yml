@@ -11,12 +11,12 @@ sidebar:
   # Sidebar links
   email: vladimir.veselov@phystech.edu
   phone: +7 964 5899326
-  timezone: Turkey/Mersin Timezone
+  timezone: Russia/Moscow Timezone
   citizenship:
   #    website: v1690117.com
   #    linkedin: v1690117
   xing:
-  #    github: v1690117
+  github: v1690117
   telegram: v1690117
   gitlab:
   bitbucket:
@@ -59,6 +59,14 @@ experiences:
   info:
     - company: IGA Technologies, Moscow
       projects:
+        - role: Fullstack Team Lead
+          time: 2024 - present
+          name: ?
+          details: |
+            todo
+            
+            **Stack:** Microservices, Java 17, Spring Boot, PostgreSQL, Kafka, React, Typescript, Docker, Kubernetes, Gitlab CI.
+
         - role: Fullstack Team Lead
           time: 2023 - 2024
           name: Classification System
