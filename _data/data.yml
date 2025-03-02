@@ -129,8 +129,8 @@ experiences:
           time: 2016
           name: Warehouse Management
           details: |
-            Created a system for the warehouse to register all income and outcome of assets.    
-            I developed a plugin for IntelliJ IDEA that sped up data model development at least 10 times and allowed to add configuration data to the control version system.  
+            - created a system for the warehouse to register all income and outcome of assets,    
+            - developed a plugin for IntelliJ IDEA that sped up data model development at least 10 times and allowed to add configuration data to the control version system.  
             
             **Stack:** Monolithic Architecture, 3DEXPERIENCE R2015x, Java 8 
 
