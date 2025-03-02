@@ -109,7 +109,6 @@ experiences:
           name: Change Approval Extension
           details: |
             Developed a new module to automate the Change process of engineering models. Interesting experience:      
-            -  implemented the first end-to-end integration test,    
             -  introduced React framework to the company,    
             -  moved server logic from JSP and Servlets to JaxRS.   
             
@@ -170,24 +169,24 @@ experiences:
 #        link: https://github.com/v1690117/rutt
 #        tagline: "System to handle and trace software requirements, use cases, tests cases and architecture."
 
-certifications:
-  title: Certifications
-  list:
-
-    - name: 3DEXPERIENCE Architecture Fundamentals R2018X - Level 1
-      start: 2018-10-18
-      credentialurl: 3ds.virtualtester.com/qr?b=3DS&i=C-9HZE4U4AMV
-      credentialname: Dassault Systèmes
-      organization: Dassault Systèmes
-      details: |
-        Architecture of the 3DEXPERIENCE Platform.
-    - name: 3DEXPERIENCE Customization Fundamentals R2017X - Level 1
-      start: 2017-12-20
-      organization: Dassault Systèmes
-      credentialurl: 3ds.virtualtester.com/qr?b=3DS&i=C-UPHTSBXX68
-      credentialname: Dassault Systèmes
-      details: |
-        Configuration and customization of the 3DEXPERIENCE Platform.
+#certifications:
+#  title: Certifications
+#  list:
+#
+#    - name: 3DEXPERIENCE Architecture Fundamentals R2018X - Level 1
+#      start: 2018-10-18
+#      credentialurl: 3ds.virtualtester.com/qr?b=3DS&i=C-9HZE4U4AMV
+#      credentialname: Dassault Systèmes
+#      organization: Dassault Systèmes
+#      details: |
+#        Architecture of the 3DEXPERIENCE Platform.
+#    - name: 3DEXPERIENCE Customization Fundamentals R2017X - Level 1
+#      start: 2017-12-20
+#      organization: Dassault Systèmes
+#      credentialurl: 3ds.virtualtester.com/qr?b=3DS&i=C-UPHTSBXX68
+#      credentialname: Dassault Systèmes
+#      details: |
+#        Configuration and customization of the 3DEXPERIENCE Platform.
 
 skills:
   title: Skills &amp; Proficiency
